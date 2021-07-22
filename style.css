@@ -6,10 +6,10 @@ body {
    font-size: 25px;
    font-family: Dosis,
    sans-serif;
-   margin-top: 50px;
-   margin-bottom: 50px;
-   margin-left: 550px;
-   margin-right: 550px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-right: 20px;
    text-align: center;
 }
 h1 {
@@ -30,6 +30,7 @@ h3 {
     color:#ADE8F4;
     padding: 10px 30px 10px 30px;
     margin: 0px;
+    margin-inline: 30%;
 }
 ul {
     color: #003F88;
@@ -49,6 +50,7 @@ ul {
 p {
     margin-top: 15px;
     margin-bottom: 15px;
+    margin-inline: 25%;
 }
 #botao {
     background-color: #023E8A;
