@@ -6,11 +6,12 @@ body {
    font-size: 25px;
    font-family: Dosis,
    sans-serif;
+   text-align: center;
    margin-top: 20px;
    margin-bottom: 20px;
-   margin-left: 20px;
-   margin-right: 20px;
-   text-align: center;
+   margin-left: 0px;
+   margin-right: 0px;
+
 }
 h1 {
     font-size: 2em;
