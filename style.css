@@ -1,0 +1,68 @@
+
+
+body {
+   background-color: #caf0f8;
+   color: #023E8A;
+   font-size: 25px;
+   font-family: Dosis,
+   sans-serif;
+   margin-top: 50px;
+   margin-bottom: 50px;
+   margin-left: 550px;
+   margin-right: 550px;
+   text-align: center;
+}
+h1 {
+    font-size: 2em;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#foto {
+    border-radius: 100px;
+}
+h3 {
+    color: #00296B;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.lista {
+    background-color: #1A759F;
+    color:#ADE8F4;
+    padding: 10px 30px 10px 30px;
+    margin: 0px;
+}
+ul {
+    color: #003F88;
+}
+#lin {
+    background-color: #023E8A;
+    color: #ADE8F4;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+#github {
+    background-color: #023E8A;
+    color: #ADE8F4;
+    padding: 10px 22px;
+    border-radius: 15px;
+}
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#botao {
+    background-color: #023E8A;
+    color: #ADE8F4;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+#icones {
+    text-align: center;
+}
+.icons {
+    margin: 10px;
+}
+li {
+    list-style-type: none;
+}
+
